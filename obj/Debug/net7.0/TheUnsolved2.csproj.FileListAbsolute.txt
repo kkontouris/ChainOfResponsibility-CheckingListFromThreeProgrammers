@@ -1,0 +1,15 @@
+D:\προγραμματισμός\c#\TheUnsolved2\bin\Debug\net7.0\TheUnsolved2.exe
+D:\προγραμματισμός\c#\TheUnsolved2\bin\Debug\net7.0\TheUnsolved2.deps.json
+D:\προγραμματισμός\c#\TheUnsolved2\bin\Debug\net7.0\TheUnsolved2.runtimeconfig.json
+D:\προγραμματισμός\c#\TheUnsolved2\bin\Debug\net7.0\TheUnsolved2.dll
+D:\προγραμματισμός\c#\TheUnsolved2\bin\Debug\net7.0\TheUnsolved2.pdb
+D:\προγραμματισμός\c#\TheUnsolved2\obj\Debug\net7.0\TheUnsolved2.csproj.AssemblyReference.cache
+D:\προγραμματισμός\c#\TheUnsolved2\obj\Debug\net7.0\TheUnsolved2.GeneratedMSBuildEditorConfig.editorconfig
+D:\προγραμματισμός\c#\TheUnsolved2\obj\Debug\net7.0\TheUnsolved2.AssemblyInfoInputs.cache
+D:\προγραμματισμός\c#\TheUnsolved2\obj\Debug\net7.0\TheUnsolved2.AssemblyInfo.cs
+D:\προγραμματισμός\c#\TheUnsolved2\obj\Debug\net7.0\TheUnsolved2.csproj.CoreCompileInputs.cache
+D:\προγραμματισμός\c#\TheUnsolved2\obj\Debug\net7.0\TheUnsolved2.dll
+D:\προγραμματισμός\c#\TheUnsolved2\obj\Debug\net7.0\refint\TheUnsolved2.dll
+D:\προγραμματισμός\c#\TheUnsolved2\obj\Debug\net7.0\TheUnsolved2.pdb
+D:\προγραμματισμός\c#\TheUnsolved2\obj\Debug\net7.0\TheUnsolved2.genruntimeconfig.cache
+D:\προγραμματισμός\c#\TheUnsolved2\obj\Debug\net7.0\ref\TheUnsolved2.dll
